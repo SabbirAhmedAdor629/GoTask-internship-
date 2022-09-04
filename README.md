@@ -1,4 +1,4 @@
-# GoTask-internship-
+# GoTask
 A repository for completion of task 
 
 Notes : https://drive.google.com/drive/folders/1-369ZmsGtFLZkc1QSoiur5zAAkWqRuFF?usp=sharing
