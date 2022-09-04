@@ -1,7 +1,7 @@
 # GoTask
 A repository for completion of task 
 
-Notes : https://drive.google.com/drive/folders/1-369ZmsGtFLZkc1QSoiur5zAAkWqRuFF?usp=sharing
+Notes :
 
 1. https://drive.google.com/file/d/1swIhbav38tZcqhCZMpdyz-Xf4-XkVlaA/view?usp=sharing
 
