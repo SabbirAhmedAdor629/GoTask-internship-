@@ -1,0 +1,97 @@
+package main
+
+import (
+	"fmt"
+)
+
+type father_details struct {
+	name       string
+	occupation string
+	MOBILE     string
+}
+
+type mother_details struct {
+	name       string
+	occupation string
+}
+
+type Details struct {
+	myself string
+	EMAIL  string
+	MOBILE string
+	*father_details
+	*mother_details
+	brother_name string
+	sister_name  string
+	country      string
+	zip          int
+	state        string
+}
+
+func main() {
+	family_details_1 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details1.Details)
+	
+	family_details_2 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details2.Details.country)
+	
+	family_details_3 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details3.Details.country)
+	
+	family_details_4 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details4.Details)
+	
+	family_details_5 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details5.Details.country)
+	
+	family_details_6 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details6.Details.country)
+	
+	family_details_7 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details7.Details)
+	
+	family_details_8 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details8.Details.country)
+	
+	family_details_9 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details9.Details.country)
+	
+	family_details_10 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details9.Details.country)
+	
+	
+	
+	
+	
+	
+	family_details_11 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details11.Details)
+	
+	family_details_12 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details12.Details.country)
+	
+	family_details_13 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details13.Details.country)
+	
+	family_details_14 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details14.Details)
+	
+	family_details_15 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details15.Details.country)
+	
+	family_details_16 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details16.Details.country)
+	
+	family_details_17 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details17.Details)
+	
+	family_details_18 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details18.Details.country)
+	
+	family_details_19 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details19.Details.country)
+	
+	family_details_20 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
+	fmt.Println(family_details20.Details.country)
+
+}
