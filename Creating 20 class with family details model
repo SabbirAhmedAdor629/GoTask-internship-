@@ -85,6 +85,7 @@ func main() {
 	family_details_17 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
 	fmt.Println(family_details17.Details)
 	
+	
 	family_details_18 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
 	fmt.Println(family_details18.Details.country)
 	
@@ -92,6 +93,6 @@ func main() {
 	fmt.Println(family_details19.Details.country)
 	
 	family_details_20 := Details("jhone", "example@gmail.com", "017848448", &father_details{"Roxin", "buisnessman", "01788929"}, &mother_details{"Alexa", "House-Wife"}, "Doe", "yammy", "US", 12777, "WA")
-	fmt.Println(family_details20.Details.country)
+	fmt.Println(family_details20.Details.country) 
 
 }
