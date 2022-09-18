@@ -1,6 +1,16 @@
 # GoTask
 A repository for completion of task 
 
+
+Regarding to the JSON task : 
+https://blog.logrocket.com/using-json-go-guide/#:~:text=In%20the%20Go%20environment%2C%20the%20JSON%20document%20decoding,The%20Unmarshal%20function%20comes%20with%20the%20following%20syntax.
+
+
+
+
+
+
+
 Notes :
 
 1. https://drive.google.com/file/d/1swIhbav38tZcqhCZMpdyz-Xf4-XkVlaA/view?usp=sharing
