@@ -11,6 +11,8 @@ StackOverflow : https://stackoverflow.com/questions/8270816/converting-go-struct
 
 Write in json : https://www.golangprograms.com/golang-writing-struct-to-json-file.html
 
+How to read a file in golang : https://golang.cafe/blog/golang-read-file-example.html
+
 
 
 
