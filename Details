@@ -1,0 +1,40 @@
+package main
+
+import (
+	"fmt"
+)
+
+type Mother struct {
+	m_name       string
+	m_occupation string
+}
+
+type Father struct {
+	f_name       string
+	f_occupation string
+	f_MOBILE     string
+}
+
+type Details struct {
+	myself string
+	EMAIL  string
+	Father
+	Mother
+}
+
+func main() {
+	family_details_1 := Details{}
+	family_details_1.myself = "Sabbir"
+	family_details_1.EMAIL = "fadd@gmail.com"
+	
+	
+	//FATHER DETAILS
+	family_details_1.f_name = "Ahmed"
+	family_details_1.f_occupation = "Buisnessman"
+	family_details_1.f_MOBILE = "01788988568"
+	//MOTHER DETAILS
+	family_details_1.m_name = "Jahanara Begum"
+	family_details_1.m_occupation = "Teacher"
+	fmt.Println(family_details_1)
+
+}
