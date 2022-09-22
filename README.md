@@ -15,6 +15,7 @@ Read in json : https://tutorialedge.net/golang/parsing-json-with-golang/
 
 How to read a file in golang : https://golang.cafe/blog/golang-read-file-example.html
 
+Converting JSON to CSV : https://gosamples.dev/json-to-csv/
 
 
 
