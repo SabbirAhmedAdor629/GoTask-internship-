@@ -1,4 +1,12 @@
 # GoTask
+
+
+Daily Task :
+Sharpenning GoLang
+-- Structure
+-- JSON TO CSV
+
+
 A repository for completion of task 
 
 
