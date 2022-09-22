@@ -17,6 +17,7 @@ How to read a file in golang : https://golang.cafe/blog/golang-read-file-example
 
 Converting JSON to CSV : https://gosamples.dev/json-to-csv/
 
+Array of Struct : https://codesource.io/how-to-use-array-of-structs-in-golang/  (this article helped me while making family information json file)
 
 
 
