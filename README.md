@@ -29,6 +29,14 @@ Array of Struct : https://codesource.io/how-to-use-array-of-structs-in-golang/  
 
 Random function in golang : https://gosamples.dev/random-string/
 
+Working with Modules : 
+1.
+https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc
+2.
+https://www.geeksforgeeks.org/how-to-create-modules-in-golang/
+3.
+https://go.dev/blog/using-go-modules
+
 Notes :
 
 1. https://drive.google.com/file/d/1swIhbav38tZcqhCZMpdyz-Xf4-XkVlaA/view?usp=sharing
