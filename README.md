@@ -27,8 +27,7 @@ Converting JSON to CSV : https://gosamples.dev/json-to-csv/
 
 Array of Struct : https://codesource.io/how-to-use-array-of-structs-in-golang/  (this article helped me while making family information json file)
 
-
-
+Random function in golang : https://gosamples.dev/random-string/
 
 Notes :
 
