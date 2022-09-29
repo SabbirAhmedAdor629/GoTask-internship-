@@ -39,6 +39,11 @@ https://www.geeksforgeeks.org/how-to-create-modules-in-golang/
 3.
 https://go.dev/blog/using-go-modules
 
+Converting struct into bytes :
+
+https://go.dev/blog/gob (gob package by go blog)
+https://go.dev/play/p/0ZX7J0fuJTv (play)
+
 Notes :
 
 1. https://drive.google.com/file/d/1swIhbav38tZcqhCZMpdyz-Xf4-XkVlaA/view?usp=sharing
