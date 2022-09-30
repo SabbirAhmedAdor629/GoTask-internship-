@@ -44,6 +44,11 @@ Converting struct into bytes :
 https://go.dev/blog/gob (gob package by go blog)
 https://go.dev/play/p/0ZX7J0fuJTv (play)
 
+Unit Testing : 
+https://www.youtube.com/watch?v=XQzTUa9LPU8 (by nerdcademy)
+https://golangdocs.com/golang-unit-testing (Website)
+
+
 Notes :
 
 1. https://drive.google.com/file/d/1swIhbav38tZcqhCZMpdyz-Xf4-XkVlaA/view?usp=sharing
